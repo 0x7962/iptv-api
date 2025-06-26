@@ -1,19 +1,16 @@
 🕘️更新时间,#genre#
-2025-06-26 06:22:23,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-06-26 18:27:00,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 📺央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
 CCTV-5,http://qjrhc.jydjd.top:2911/udp/224.1.100.82:11111
 CCTV-5+,http://templaralone.asuscomm.com:35455/mgtv/641886773.m3u8
-CCTV-6,http://119.32.12.17:2901/udp/224.1.100.84:11111
-CCTV-7,http://112.123.243.37:50085/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-7,http://omnix.cn:4000/udp/225.1.8.7:8104
 CCTV-9,http://119.32.12.17:2901/udp/224.1.100.29:11111
-CCTV-16,http://110.52.99.109:9901/tsfile/live/1015_1.m3u8
 CETV-1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
-CETV-1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
 CETV-1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2
+CETV-1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
 CETV-1,http://120.198.95.220:9901/tsfile/live/1039_1.m3u8?key=txiptv
 CETV-1,rtsp://115.153.254.81/PLTV/88888888/224/3221226858/63768493.smil
 CETV-1,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226858/63768493.smil
