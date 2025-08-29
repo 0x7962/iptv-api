@@ -1,9 +1,23 @@
 🕘️更新时间,#genre#
-2025-08-29 06:19:43,https://migu.188766.xyz/?migutoken=6818dd0cb7452ab9cba884dc087f5f3e&id=CCTV6&pp=1
+2025-08-29 18:21:03,http://8.134.110.147:5300/?id=cctv1
 
 📺央视频道,#genre#
+CCTV-1,http://8.134.110.147:5300/?id=cctv1
+CCTV-2,http://8.134.110.147:5300/?id=cctv2
+CCTV-3,http://8.134.110.147:5300/?id=cctv3
+CCTV-4,http://8.134.110.147:5300/?id=cctv4
 CCTV-6,https://migu.188766.xyz/?migutoken=6818dd0cb7452ab9cba884dc087f5f3e&id=CCTV6&pp=1
+CCTV-6,http://8.134.110.147:5300/?id=cctv6
+CCTV-7,http://8.134.110.147:5300/?id=cctv7
+CCTV-8,http://8.134.110.147:5300/?id=cctv8
+CCTV-9,http://8.134.110.147:5300/?id=cctv9
+CCTV-10,http://8.134.110.147:5300/?id=cctv10
+CCTV-12,http://8.134.110.147:5300/?id=cctv12
+CCTV-13,http://8.134.110.147:5300/?id=cctv13
+CCTV-14,http://8.134.110.147:5300/?id=cctv14
+CCTV-15,http://8.134.110.147:5300/?id=cctv15
 CCTV-16,https://migu.188766.xyz/?migutoken=eda82b340e2efaedc007fddfaf1c7c28&id=CCTV16&pp=1
+CCTV-17,http://8.134.110.147:5300/?id=cctv17
 CETV-1,https://migu.188766.xyz/?migutoken=a55dadc35d37e3e168faf8268cc6fa97&id=CETV1&type=yy
 CETV-2,https://migu.188766.xyz/?migutoken=98daa3ba4c81372351b73d9075023b9b&id=CETV2&type=yy
 CETV-4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CETV4&type=yy

@@ -1,5 +1,19 @@
-Name: CCTV-6, URL: https://migu.188766.xyz/?migutoken=6818dd0cb7452ab9cba884dc087f5f3e&id=CCTV6&pp=1, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 111 ms, Speed: 10.11 M/s, Resolution: 1920x1080
-Name: CCTV-16, URL: https://migu.188766.xyz/?migutoken=eda82b340e2efaedc007fddfaf1c7c28&id=CCTV16&pp=1, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 106 ms, Speed: 10.60 M/s, Resolution: 1920x1080
-Name: CETV-1, URL: https://migu.188766.xyz/?migutoken=a55dadc35d37e3e168faf8268cc6fa97&id=CETV1&type=yy, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 132 ms, Speed: 10.57 M/s, Resolution: 1920x1080
-Name: CETV-2, URL: https://migu.188766.xyz/?migutoken=98daa3ba4c81372351b73d9075023b9b&id=CETV2&type=yy, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 132 ms, Speed: 11.13 M/s, Resolution: 1920x1080
-Name: CETV-4, URL: https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CETV4&type=yy, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 141 ms, Speed: 9.11 M/s, Resolution: 1920x1080
+Name: CCTV-1, URL: http://8.134.110.147:5300/?id=cctv1, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 阿里云, Date: None, Delay: 1223 ms, Speed: 0.73 M/s, Resolution: 854x480
+Name: CCTV-2, URL: http://8.134.110.147:5300/?id=cctv2, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 阿里云, Date: None, Delay: 1327 ms, Speed: 0.62 M/s, Resolution: 854x480
+Name: CCTV-3, URL: http://8.134.110.147:5300/?id=cctv3, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 阿里云, Date: None, Delay: 1199 ms, Speed: 0.73 M/s, Resolution: 854x480
+Name: CCTV-4, URL: http://8.134.110.147:5300/?id=cctv4, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 阿里云, Date: None, Delay: 1337 ms, Speed: 0.88 M/s, Resolution: 854x480
+Name: CCTV-6, URL: https://migu.188766.xyz/?migutoken=6818dd0cb7452ab9cba884dc087f5f3e&id=CCTV6&pp=1, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 70 ms, Speed: 18.08 M/s, Resolution: 1920x1080
+Name: CCTV-6, URL: http://8.134.110.147:5300/?id=cctv6, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 阿里云, Date: None, Delay: 1093 ms, Speed: 0.74 M/s, Resolution: 854x480
+Name: CCTV-7, URL: http://8.134.110.147:5300/?id=cctv7, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 阿里云, Date: None, Delay: 1647 ms, Speed: 0.91 M/s, Resolution: 854x480
+Name: CCTV-8, URL: http://8.134.110.147:5300/?id=cctv8, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 阿里云, Date: None, Delay: 1424 ms, Speed: 1.05 M/s, Resolution: 854x480
+Name: CCTV-9, URL: http://8.134.110.147:5300/?id=cctv9, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 阿里云, Date: None, Delay: 1363 ms, Speed: 0.93 M/s, Resolution: 854x480
+Name: CCTV-10, URL: http://8.134.110.147:5300/?id=cctv10, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 阿里云, Date: None, Delay: 1290 ms, Speed: 0.83 M/s, Resolution: 854x480
+Name: CCTV-12, URL: http://8.134.110.147:5300/?id=cctv12, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 阿里云, Date: None, Delay: 1528 ms, Speed: 0.90 M/s, Resolution: 854x480
+Name: CCTV-13, URL: http://8.134.110.147:5300/?id=cctv13, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 阿里云, Date: None, Delay: 1239 ms, Speed: 0.74 M/s, Resolution: 854x480
+Name: CCTV-14, URL: http://8.134.110.147:5300/?id=cctv14, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 阿里云, Date: None, Delay: 1444 ms, Speed: 0.73 M/s, Resolution: 854x480
+Name: CCTV-15, URL: http://8.134.110.147:5300/?id=cctv15, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 阿里云, Date: None, Delay: 1614 ms, Speed: 0.93 M/s, Resolution: 854x480
+Name: CCTV-16, URL: https://migu.188766.xyz/?migutoken=eda82b340e2efaedc007fddfaf1c7c28&id=CCTV16&pp=1, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 82 ms, Speed: 14.29 M/s, Resolution: 1920x1080
+Name: CCTV-17, URL: http://8.134.110.147:5300/?id=cctv17, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 阿里云, Date: None, Delay: 1268 ms, Speed: 0.48 M/s, Resolution: 854x480
+Name: CETV-1, URL: https://migu.188766.xyz/?migutoken=a55dadc35d37e3e168faf8268cc6fa97&id=CETV1&type=yy, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 84 ms, Speed: 13.43 M/s, Resolution: 1920x1080
+Name: CETV-2, URL: https://migu.188766.xyz/?migutoken=98daa3ba4c81372351b73d9075023b9b&id=CETV2&type=yy, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 90 ms, Speed: 14.22 M/s, Resolution: 1920x1080
+Name: CETV-4, URL: https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CETV4&type=yy, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 71 ms, Speed: 18.20 M/s, Resolution: 1920x1080
