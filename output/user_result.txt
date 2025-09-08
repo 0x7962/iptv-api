@@ -1,10 +1,8 @@
 🕘️更新时间,#genre#
-2025-09-08 06:18:13,http://113.15.109.216:59901/tsfile/live/1001_1.m3u8
+2025-09-08 18:23:28,https://migu.188766.xyz/?migutoken=6818dd0cb7452ab9cba884dc087f5f3e&id=CCTV6&pp=1
 
 📺央视频道,#genre#
-CCTV-5+,http://113.15.109.216:59901/tsfile/live/1001_1.m3u8
 CCTV-6,https://migu.188766.xyz/?migutoken=6818dd0cb7452ab9cba884dc087f5f3e&id=CCTV6&pp=1
-CCTV-12,http://113.15.109.216:59901/tsfile/live/0012_1.m3u8
 CCTV-16,https://migu.188766.xyz/?migutoken=eda82b340e2efaedc007fddfaf1c7c28&id=CCTV16&pp=1
 CETV-1,https://migu.188766.xyz/?migutoken=a55dadc35d37e3e168faf8268cc6fa97&id=CETV1&type=yy
 CETV-2,https://migu.188766.xyz/?migutoken=98daa3ba4c81372351b73d9075023b9b&id=CETV2&type=yy
