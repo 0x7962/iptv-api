@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2025-09-26 18:22:07,http://183.222.242.31:8088/hls/4/index.m3u8
+2025-09-27 06:17:59,https://cc06.tv12.xyz/23.m3u8
 
 📺央视频道,#genre#
-CCTV-4,http://183.222.242.31:8088/hls/4/index.m3u8
 CETV-1,https://cc06.tv12.xyz/23.m3u8
 CETV-1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
 CETV-1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
