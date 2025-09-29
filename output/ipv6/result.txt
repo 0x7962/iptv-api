@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-29 18:22:26,https://cc06.tv12.xyz/23.m3u8
+2025-09-30 06:17:36,https://cc06.tv12.xyz/23.m3u8
 
 📺央视频道,#genre#
 CETV-1,https://cc06.tv12.xyz/23.m3u8
