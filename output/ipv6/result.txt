@@ -1,4 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-09 06:20:03,url
+2025-10-09 18:22:29,https://cc06.tv12.xyz/23.m3u8
 
 📺央视频道,#genre#
+CETV-1,https://cc06.tv12.xyz/23.m3u8
