@@ -1,1 +1,3 @@
-Name: CETV-1, URL: https://httop.top/tv-cetv1, IPv_Type: ipv4, Location: 中国-香港, ISP: AS979_Net, Date: None, Delay: 458 ms, Speed: 4.43 M/s, Resolution: 1920x1080
+Name: CCTV-4, URL: http://1.31.14.70:54321/hls/13/index.m3u8, IPv_Type: ipv4, Location: 中国-内蒙古-赤峰, ISP: 联通, Date: None, Delay: 10414 ms, Speed: 0.06 M/s, Resolution: 720x576
+Name: CCTV-10, URL: http://1.31.14.70:54321/hls/11/index.m3u8, IPv_Type: ipv4, Location: 中国-内蒙古-赤峰, ISP: 联通, Date: None, Delay: 10576 ms, Speed: 0.02 M/s, Resolution: 720x576
+Name: CCTV-14, URL: http://1.31.14.70:54321/hls/22/index.m3u8, IPv_Type: ipv4, Location: 中国-内蒙古-赤峰, ISP: 联通, Date: None, Delay: 10483 ms, Speed: 0.08 M/s, Resolution: 720x576
