@@ -1,12 +1,2 @@
-Name: CCTV-3, URL: http://60.13.52.236:65500/newlive/live/hls/3/live.m3u8, IPv_Type: ipv4, Location: 中国-甘肃-兰州, ISP: 联通, Date: None, Delay: 10334 ms, Speed: 0.03 M/s, Resolution: None
-Name: CCTV-6, URL: http://120.40.39.246:352/newlive/live/hls/7/live.m3u8, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 10292 ms, Speed: 0.25 M/s, Resolution: 1920x1080
-Name: CCTV-7, URL: http://120.40.39.246:352/newlive/live/hls/8/live.m3u8, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 10220 ms, Speed: 0.05 M/s, Resolution: 1920x1080
-Name: CCTV-8, URL: http://120.40.39.246:352/newlive/live/hls/9/live.m3u8, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 10295 ms, Speed: 0.11 M/s, Resolution: None
-Name: CCTV-9, URL: http://120.40.39.246:352/newlive/live/hls/10/live.m3u8, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 10224 ms, Speed: 0.10 M/s, Resolution: 1920x1080
-Name: CETV-1, URL: http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/.m3u8, IPv_Type: ipv4, Location: 中国-河北-廊坊, ISP: 电信, Date: None, Delay: 3641 ms, Speed: 3.13 M/s, Resolution: 1920x1080
-Name: CETV-1, URL: http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226538/.m3u8, IPv_Type: ipv4, Location: 中国-河北-廊坊, ISP: 电信, Date: None, Delay: 2924 ms, Speed: 1.18 M/s, Resolution: 720x576
-Name: CETV-1, URL: http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226925/.m3u8, IPv_Type: ipv4, Location: 中国-河北-廊坊, ISP: 电信, Date: None, Delay: 4646 ms, Speed: 0.58 M/s, Resolution: None
-Name: CETV-2, URL: http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/.m3u8, IPv_Type: ipv4, Location: 中国-河北-廊坊, ISP: 电信, Date: None, Delay: 2867 ms, Speed: 1.17 M/s, Resolution: 720x576
-Name: CETV-4, URL: http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/.m3u8, IPv_Type: ipv4, Location: 中国-河北-廊坊, ISP: 电信, Date: None, Delay: 3214 ms, Speed: 1.72 M/s, Resolution: 720x576
-Name: CETV-4, URL: http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226362/.m3u8, IPv_Type: ipv4, Location: 中国-河北-廊坊, ISP: 电信, Date: None, Delay: 3110 ms, Speed: 1.69 M/s, Resolution: 720x576
-Name: CETV-4, URL: http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226557/.m3u8, IPv_Type: ipv4, Location: 中国-河北-廊坊, ISP: 电信, Date: None, Delay: 2922 ms, Speed: 1.17 M/s, Resolution: 720x576
+Name: CETV-1, URL: http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/.m3u8, IPv_Type: ipv4, Location: 中国-河北-廊坊, ISP: 电信, Date: None, Delay: 10915 ms, Speed: 0.34 M/s, Resolution: 1920x1080
+Name: CETV-1, URL: http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226925/.m3u8, IPv_Type: ipv4, Location: 中国-河北-廊坊, ISP: 电信, Date: None, Delay: 10527 ms, Speed: 0.22 M/s, Resolution: None
