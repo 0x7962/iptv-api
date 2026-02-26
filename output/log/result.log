@@ -1,5 +1,10 @@
-Name: CCTV-2, URL: http://23.237.228.134/live5/CCTV2.m3u8, IPv_Type: ipv4, Location: 北美地区, ISP: , Date: None, Delay: 140 ms, Speed: 6.37 M/s, Resolution: 1920x1080
-Name: CCTV-4, URL: http://74.91.26.218:82/live/cctv4hd.m3u8, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 1512 ms, Speed: 2.70 M/s, Resolution: 1920x1080
-Name: CCTV-7, URL: http://23.237.228.134/live5/CCTV7.m3u8, IPv_Type: ipv4, Location: 北美地区, ISP: , Date: None, Delay: 135 ms, Speed: 6.37 M/s, Resolution: 1920x1080
-Name: CCTV-13, URL: https://cdn3.163189.xyz/163189/cctv13, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 103 ms, Speed: 30.17 M/s, Resolution: 1920x1080
-Name: CETV-1, URL: http://39.152.103.17:8089/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&down=1, IPv_Type: ipv4, Location: 中国-辽宁-阜新, ISP: 移动, Date: None, Delay: 10905 ms, Speed: 0.10 M/s, Resolution: 1920x1080
+Name: CCTV-4, URL: http://74.91.26.218:82/live/cctv4hd.m3u8, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 372 ms, Speed: 10.15 M/s, Resolution: 1920x1080
+Name: CCTV-13, URL: https://cdn3.163189.xyz/163189/cctv13, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 180 ms, Speed: 17.51 M/s, Resolution: 1920x1080
+Name: CETV-1, URL: http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1, IPv_Type: ipv4, Location: 美国-纽约州-纽约, ISP: 网宿科技CDN节点, Date: None, Delay: 10 ms, Speed: 12.05 M/s, Resolution: 19x24
+Name: CETV-1, URL: http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4, IPv_Type: ipv4, Location: 美国-纽约州-纽约, ISP: 网宿科技CDN节点, Date: None, Delay: 10 ms, Speed: 11.32 M/s, Resolution: 19x24
+Name: CETV-1, URL: http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2, IPv_Type: ipv4, Location: 美国-纽约州-纽约, ISP: 网宿科技CDN节点, Date: None, Delay: 10 ms, Speed: 6.11 M/s, Resolution: 19x24
+Name: CETV-1, URL: http://39.152.103.17:8089/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&down=1, IPv_Type: ipv4, Location: 中国-辽宁-阜新, ISP: 移动, Date: None, Delay: 10590 ms, Speed: 0.97 M/s, Resolution: 1920x1080
+Name: CETV-1, URL: rtsp://115.153.254.81/PLTV/88888888/224/3221226858/63768493.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10012 ms, Speed: 0.00 M/s, Resolution: None
+Name: CETV-1, URL: rtsp://115.153.240.228:554/PLTV/88888888/224/3221226858/63768493.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10012 ms, Speed: 0.00 M/s, Resolution: None
+Name: CETV-1, URL: rtsp://115.153.212.72/PLTV/88888888/224/3221226858/63768493.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10014 ms, Speed: 0.00 M/s, Resolution: None
+Name: CETV-1, URL: rtsp://115.153.233.154/PLTV/88888888/224/3221226858/63768493.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10012 ms, Speed: 0.00 M/s, Resolution: None
