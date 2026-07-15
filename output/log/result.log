@@ -1,3 +1,4 @@
-Name: CCTV-3, URL: http://121.57.88.206:898/hls/3/index.m3u8, IPv_Type: ipv4, Location: 中国-内蒙古-赤峰, ISP: 电信, Date: None, Delay: 5017 ms, Speed: 1.20 M/s, Resolution: 1920x1080
-Name: CCTV-10, URL: https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8, IPv_Type: ipv4, Location: 蒙古, ISP: , Date: None, Delay: 3330 ms, Speed: 0.49 M/s, Resolution: None
-Name: CETV-1, URL: http://120.76.248.139/live/bfgd/4200000135.m3u8, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 阿里云BGP数据中心, Date: None, Delay: 3098 ms, Speed: 0.79 M/s, Resolution: 1920x1080
+Name: CCTV-3, URL: http://121.57.88.206:898/hls/3/index.m3u8, IPv_Type: ipv4, Location: 中国-内蒙古-赤峰, ISP: 电信, Date: None, Delay: 5306 ms, Speed: 1.13 M/s, Resolution: 1920x1080
+Name: CCTV-5+, URL: http://153.0.171.163:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-海南-海口, ISP: 联通, Date: None, Delay: 10380 ms, Speed: 0.14 M/s, Resolution: 1920x1080
+Name: CCTV-10, URL: https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8, IPv_Type: ipv4, Location: 蒙古, ISP: , Date: None, Delay: 2763 ms, Speed: 0.59 M/s, Resolution: None
+Name: CETV-1, URL: http://120.76.248.139/live/bfgd/4200000135.m3u8, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 阿里云BGP数据中心, Date: None, Delay: 10099 ms, Speed: 0.00 M/s, Resolution: 1920x1080
